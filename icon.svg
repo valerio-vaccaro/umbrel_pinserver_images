@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 128 128" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path d="M255.871 0.125H0.128601V255.868H255.871V0.125Z" fill="#111316"/>
+    <defs>
+        <polygon id="path-1" points="0.794611399 0.933439234 31.492228 0.933439234 31.492228 24.7535751 0.794611399 24.7535751"></polygon>
+        <polygon id="path-3" points="0 1.14797927 58.8134715 1.14797927 58.8134715 59.8029016 0 59.8029016"></polygon>
+    </defs>
+    <g id="Unified-Headers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-190.000000, -828.000000)">
+            <g id="brand/products/logos/jade" transform="translate(190.000000, 828.000000)">
+                <g id="Group-41" transform="translate(0.000000, -0.000000)">
+                    <g id="Group-34" transform="translate(0.000000, 65.071295)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-33"></g>
+                        <polygon id="Fill-32" fill="#06886F" mask="url(#mask-4)" points="58.8134715 21.000829 50.0756477 12.5448705 48.6849741 11.1956477 45.0207254 7.42777202 38.9088083 1.14797927 -0.00103626943 1.14797927 58.8134715 59.8029016"></polygon>
+                    </g>
+                    <polygon id="Fill-35" fill="#00B093" points="66.1220725 125.174922 124.917927 66.2194819 86.1158549 66.2194819 77.6578238 74.9593782 76.308601 76.3500518 72.5407254 80.0163731 66.1220725 86.2609326"></polygon>
+                    <polygon id="Fill-37" fill="#A9DBD3" points="66.1220725 0.0232124352 66.1220725 38.8294301 74.9718135 47.3890155 76.3604145 48.7382383 80.0267358 52.5081865 86.2567876 58.9123316 125.168705 58.9123316"></polygon>
+                    <polygon id="Fill-39" fill="#FFFFFF" points="58.7568912 0 0.00248704663 58.9119171 38.8107772 58.9119171 47.386943 50.0476684 48.7361658 48.6590674 52.506114 44.9906736 58.7568912 38.907772"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
